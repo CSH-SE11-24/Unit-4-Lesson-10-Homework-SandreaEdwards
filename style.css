@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.navbar a{
+  color:white;
+}
+.active{
+  color:#ff387e !important;
